@@ -1,0 +1,60 @@
+
+.contact-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-image: url("../images/oldman.jpg");
+  clip-path: circle(50%);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  text-align: center;
+  color: rgba(145, 255, 255, 0.526);
+  margin: 20px;
+}
+
+.contactaside {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  max-width: 90%; /* Set maximum width to 100% */
+  width: 100%; /* Set width to 100% */
+  margin: 10px;
+  padding: 10px;
+  border-radius: 20px; /*soft corners only for not showing sharp corners while transition*/
+  background-color: transparent; /*tranparent background*/
+  transition: background-color 0.3s ease;
+}
+
+.contactaside:hover {
+  color: rgb(255, 255, 255);
+  background-color: rgb(255, 0, 85); /* Adjust the opacity here */
+  border-radius: 20px; /*soft corners*/
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+  margin: 8px;
+  padding: 20px;
+  max-width: inherit;
+}
+
+.button{
+    display: flex;
+    justify-content: center;
+    margin: 8px;
+    padding: 5px;
+    border-radius: 20px; /*soft corners*/
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.308);
+}
+.button:hover{
+    background-color: aqua;
+    border-radius: 20px; /*soft corners*/
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.308);
+    font-size: medium;
+}

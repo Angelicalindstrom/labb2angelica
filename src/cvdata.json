@@ -1,0 +1,112 @@
+{
+  "workplaces": [
+    {
+      "id": 1,
+      "company": "AEL Tapetserarverkstad AB",
+      "city": "Sundsvall",
+      "workyear": "2016 - 2023",
+      "position": "CEO, industrial seamstress, handicraft, design",
+      "about": "Restored and renovated furniture, also built some furniture from scratch. I also made some boat interiors, cars and motorhomes. Also handled bookkeeping and advertising via social media"
+    },
+    {
+      "id": 2,
+      "company": "Kubal AB",
+      "city": "Sundsvall",
+      "workyear": "2021 - 2022",
+      "position": "Machine operator, at The foundry",
+      "about": "Managed the process of manufacturing aluminum ingots in different dimensions. Dirty and dangerous job with high responsibility, and I drove the forklift and high traverse."
+    },
+    {
+      "id": 3,
+      "company": "Ohlssons Tyger",
+      "city": "Sundsvall, Birsta City",
+      "workyear": "2020 - 2021",
+      "position": "Shop assistant, service, additional sales",
+      "about": "Fabrics, accessories and furnishings. Also helps with signage and decoration in the store"
+    },
+    {
+      "id": 4,
+      "company": "Amnis Hundhus",
+      "city": "Sundsvall, Södra Berget",
+      "workyear": "2019 - 2020",
+      "position": "Dog trainer",
+      "about": "Courses in Rally obedience, everyday obedience, puppy courses, jumping on a leash. Helped dog owners get better contact with their dogs and then also a funnier and more easy-going everyday"
+    },
+    {
+      "id": 5,
+      "company": "McDonalds",
+      "city": "Lidköping",
+      "workyear": "2012 - 2014",
+      "position": "Service, hostess",
+      "about": "Took all orders both at checkout and drive-in. Responsible for the family days as hostess, face painting and added value for the guests. We were named Sweden's best Mcdonalds with the best sales times and high quality"
+    },
+    {
+      "id": 6,
+      "company": "Systembolaget",
+      "city": "Lidköping",
+      "workyear": "2012 - 2013",
+      "position": "Service, checkout, stock",
+      "about": "Helped customers find the right drink for dinners, also took large orders for parties and events. Really fun and educational job with a lot of responsibility regarding sales and safety"
+    }
+  ],
+  "licenses": [
+    {
+      "id": 1,
+      "title": "Driver's License(B)",
+      "year": "2010"
+    },
+    {
+      "id": 2,
+      "title": "Forklift",
+      "year": "2021"
+    },
+    {
+      "id": 3,
+      "title": "High Traverse",
+      "year": "2021"
+    },
+    {
+      "id": 4,
+      "title": "Moped license(AM)",
+      "year": "2007"
+    }
+  ],
+  "education": [
+    {
+      "id": 1,
+      "educationName": "System developer .NET with AI technology",
+      "schoolname": "Edugrade",
+      "educationyear": "2023 - 2025"
+    },
+    {
+      "id": 2,
+      "educationName": "Programming 1 (C#)",
+      "schoolname": "Hermods",
+      "educationyear": "2023"
+    },
+    {
+      "id": 3,
+      "educationName": "Computer technology 1",
+      "schoolname": "Hermods",
+      "educationyear": "2023"
+    },
+    {
+      "id": 4,
+      "educationName": "Rally-Obedience, Instructor",
+      "schoolname": "Timrå Brukshundsklubb",
+      "educationyear": "2016"
+    },
+    {
+      "id": 5,
+      "educationName": "Agility, Instructor",
+      "schoolname": "Timrå Brukshundsklubb",
+      "educationyear": "2016"
+    },
+    {
+      "id": 6,
+      "educationName": "Society and economy, high school",
+      "schoolname": "Hedbergska",
+      "educationyear": "2014 - 2016"
+    }
+  ]
+}

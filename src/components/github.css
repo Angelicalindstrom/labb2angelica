@@ -1,0 +1,53 @@
+.totalgit {
+  margin: 20px;
+  background-color: #ffcc00; 
+  padding: 40px;
+  border-radius: 20px; /*soft corners*/
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.308); /* shadow container */
+}
+
+.ulgit {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-top: 20px;
+  list-style-type: none; /* no dots in list */
+  padding: 0; /* 0, to handle space inbetween */
+}
+
+.list {
+  min-width: fit-content;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  justify-content: center;
+  justify-items: center;
+  align-items: center;
+  text-align: center;
+  width: 200px; /* exactly width for every rapository*/
+  padding: 15px;
+  margin: 15px;
+  text-align: center;
+  background-color: #ff99ff;
+  border-radius: 10px; /*soft corners*/
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.582); /* shadow reposoitorys */
+}
+
+.list h3 {
+  color: #00ffcc; 
+  margin-bottom: 10px;
+}
+
+.list p {
+  color: #00ccff; 
+}
+
+.list a {
+  text-decoration: none;
+  color: #ff66cc; 
+}
+
+.list a:hover,
+.list a:focus {
+  color: rgb(255, 0, 85);
+}

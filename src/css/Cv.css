@@ -1,0 +1,26 @@
+.cvheader{
+    text-align: center;
+}
+
+.skillbox{
+    padding: 10px;
+    margin: 15px;
+    min-width: 50%;
+    margin-top: 5px;
+    box-shadow: 5px 5px 10px rgba(0,0,0, 0.5);
+    background-color: #c9fff1;
+    border: 5px solid #ffcc00;
+    border-radius: 20px; /*soft corners*/
+}
+.skillcontainer{
+    display: flex;
+    justify-content: center;
+    min-width: 100%;
+}
+/*Every scillbar separate */
+.skills-frontend {width: 40%; margin:2px; color: aliceblue; padding: 6px; background-color: rgb(255, 0, 85);} /* Green */
+.skills-scrum {width: 30%; margin:2px; color: aliceblue; padding: 6px;  background-color: rgb(255, 0, 85);} /* Green */
+.skills-html {width: 35%; margin:2px; color: aliceblue; padding: 6px;  background-color: rgb(255, 0, 85);} /* Green */
+.skills-css {width: 30%; margin:2px; color: aliceblue; padding: 6px;  background-color: rgb(255, 0, 85);} /* Green */
+.skills-react {width: 50%; margin:2px; color: aliceblue; padding: 6px;  background-color: rgb(255, 0, 85);} /* Green */
+.skills-c {width: 50%; margin:2px; color: aliceblue; padding: 6px;  background-color: rgb(255, 0, 85);} /* Green */
