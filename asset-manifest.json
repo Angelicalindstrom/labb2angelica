@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/labb2angelica/static/css/main.d8fa4003.css",
+    "main.js": "/labb2angelica/static/js/main.e8536023.js",
+    "static/js/592.7dc9b32a.chunk.js": "/labb2angelica/static/js/592.7dc9b32a.chunk.js",
+    "static/media/cat.jpg": "/labb2angelica/static/media/cat.a635ae6b8946ea817b85.jpg",
+    "static/media/nature.jpg": "/labb2angelica/static/media/nature.00695819d75c5c4ca076.jpg",
+    "static/media/oldman.jpg": "/labb2angelica/static/media/oldman.bcde4d5da61d7387dcf3.jpg",
+    "static/media/flamingo.jpg": "/labb2angelica/static/media/flamingo.1577cd19b46f5fcc079d.jpg",
+    "static/media/dino.jpg": "/labb2angelica/static/media/dino.c04dd62294c08e6af478.jpg",
+    "static/media/mouse.jpg": "/labb2angelica/static/media/mouse.bfa1f1233061d30b74e2.jpg",
+    "static/media/workout.jpg": "/labb2angelica/static/media/workout.05d1b1e07567ea6fbfcc.jpg",
+    "static/media/working.jpg": "/labb2angelica/static/media/working.21546e86e1abf6e86ad7.jpg",
+    "static/media/neon-duck.png": "/labb2angelica/static/media/neon-duck.620ddc744d5d52f1db4e.png",
+    "static/media/gnizta.jpg": "/labb2angelica/static/media/gnizta.e362480665ead73c209d.jpg",
+    "static/media/workout2.jpg": "/labb2angelica/static/media/workout2.65a9e9436b5cc990f821.jpg",
+    "static/media/angelicabw.png": "/labb2angelica/static/media/angelicabw.fe3269e8b987a6df17e1.png",
+    "static/media/workout (2).jpg": "/labb2angelica/static/media/workout (2).f7b41666bbdf3ec85e19.jpg",
+    "static/media/life.jpg": "/labb2angelica/static/media/life.ead2bf5c02a28df312ed.jpg",
+    "static/media/azzka.jpg": "/labb2angelica/static/media/azzka.50286605dad38c064b52.jpg",
+    "static/media/angelica3.jpg": "/labb2angelica/static/media/angelica3.ef81c13040fbc2c38bee.jpg",
+    "static/media/banana.jpg": "/labb2angelica/static/media/banana.05937dccc707ab63adaf.jpg",
+    "static/media/fishing.jpg": "/labb2angelica/static/media/fishing.192c98f4d02bc6eeaab2.jpg",
+    "static/media/student.jpg": "/labb2angelica/static/media/student.9fbc4afa373b1cb4deab.jpg",
+    "static/media/angelica2.jpg": "/labb2angelica/static/media/angelica2.7b38a5a61bfaa498f7aa.jpg",
+    "static/media/angelica1.jpg": "/labb2angelica/static/media/angelica1.3dd3ce05fd01ae225b22.jpg",
+    "static/media/angelica4.jpg": "/labb2angelica/static/media/angelica4.b4b8140276c3902e66ab.jpg",
+    "static/media/airobotic.jpg": "/labb2angelica/static/media/airobotic.8702e78223bb388e2f04.jpg",
+    "index.html": "/labb2angelica/index.html",
+    "main.d8fa4003.css.map": "/labb2angelica/static/css/main.d8fa4003.css.map",
+    "main.e8536023.js.map": "/labb2angelica/static/js/main.e8536023.js.map",
+    "592.7dc9b32a.chunk.js.map": "/labb2angelica/static/js/592.7dc9b32a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d8fa4003.css",
+    "static/js/main.e8536023.js"
+  ]
+}
